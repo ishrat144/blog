@@ -1,0 +1,26 @@
+body{
+    background-color:lightblue;
+}
+.heading{
+    
+    color: #3310b4;
+    font-weight: bold;
+    border-bottom: rgb(17, 17, 17);
+
+}
+ol{
+    color:#8b003a;
+    font: 1em sans-serif;
+
+}
+.food-img {
+    height: 250px;
+    width: 250px;
+}
+p{
+    color:darkslategrey;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+    color: green;
+}
